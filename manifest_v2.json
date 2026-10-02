@@ -1,0 +1,30 @@
+{
+  "item": {
+    "id": "naiwa",
+    "restype": "quick_app",
+    "name": "测试资源，千万不要下载",
+    "description": "。",
+    "preview": [
+      "media/character-icon-pack-promo.png"
+    ],
+    "icon": "media/canopus-character.png",
+    "cover": "media/character-icon-pack-promo.png",
+    "author": [
+      {
+        "name": "lst",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11": {
+      "version": "112.0.112",
+      "file_name": "downloads/naiwa-xiaomi-band-11-4.100.155-xmb11.crpack",
+      "versionCode": 7340144
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
