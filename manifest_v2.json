@@ -1,7 +1,7 @@
 {
   "item": {
     "id": "naiwa",
-    "restype": "quick_app",
+    "restype": "res_pack",
     "name": "测试资源，千万不要下载",
     "description": "。",
     "preview": [
